@@ -1,0 +1,14 @@
+.caja{ 
+    width: 50%;
+    border:2em solid blue;
+    background:cyan;
+    padding: 30px;
+    margin: 3% 30%;
+    color: crimson;
+    text-align: center; 
+  
+}
+.cero{
+  border:dashed;
+ background:pink;
+}
